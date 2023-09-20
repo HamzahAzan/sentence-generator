@@ -42,7 +42,7 @@ The script applies audio processing techniques to enhance the output audio quali
 3. Run the script using the following command:
 
 ```python
-python3 sentence_generator.py -i <input_directory> -o <output_file.wav>
+python3 sentence_generator.py -i <phonemes_directory> -o <generated_sentence.wav>
 ```
 
 Replace `<phonemes_directory>` with the path to the directory containing the phoneme audio files and `<generated_sentence.wav>` with the desired output file name and extension (WAV).
