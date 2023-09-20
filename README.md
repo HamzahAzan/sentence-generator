@@ -5,7 +5,7 @@ It concatenates the audio files to form  **ނާީ ރކޔަި ުެ ހފގީުެ �
 The script applies audio processing techniques to enhance the output audio quality and to make it sound as human-like as possible.
 
 **Stuff you might be looking for**:
- - [System Requirements](https://github.com/HamzahAzan/sentence-generator/#system-requirments)
+ - [System Requirements](https://github.com/HamzahAzan/sentence-generator/#system-requirements)
  - [Setup](https://github.com/hamzahazan/sentence-generator#setup)
  - [Usage](https://github.com/hamzahazan/sentence-generator#usage)
  - [Example](https://github.com/hamzahazan/sentence-generator#example)
