@@ -55,7 +55,7 @@ Replace `<input_directory>` with the path to the directory containing the phonem
 To generate a sentence from audio files located in the `input_audio` directory and save the output as `output_sentence.wav`, you can use the following command:
 
 ```python
-python3 sentence_generator.py -i input_audio -o output_sentence.wav
+python3 sentence_generator.py -i /path/to/phonemes -o /path/to/generated_sentence.wav
 ```
 
 
