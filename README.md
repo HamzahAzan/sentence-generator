@@ -45,14 +45,14 @@ The script applies audio processing techniques to enhance the output audio quali
 python3 sentence_generator.py -i <input_directory> -o <output_file.wav>
 ```
 
-Replace `<input_directory>` with the path to the directory containing the phoneme audio files and `<output_file.wav>` with the desired output file name and extension (WAV).
+Replace `<phonemes_directory>` with the path to the directory containing the phoneme audio files and `<generated_sentence.wav>` with the desired output file name and extension (WAV).
 
 4. The script will process the audio files, generate the sentence, and export it as a WAV file in the current directory.
 
 
 ## Example
 
-To generate a sentence from audio files located in the `input_audio` directory and save the output as `output_sentence.wav`, you can use the following command:
+To generate a sentence from audio files located in the `phonemes` directory and save the output as `generated_sentence.wav`, you can use the following command:
 
 ```python
 python3 sentence_generator.py -i /path/to/phonemes -o /path/to/generated_sentence.wav
